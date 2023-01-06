@@ -149,65 +149,86 @@
 }
 .Lou {
   background: url(../src/assets/lou.jpg);
+  background-size: cover;
 }
 .Alice {
   background: url(../src/assets/costantino.jpg);
+  background-size: cover;
 }
 .Kubota {
   background: url(../src/assets/kubota.jpg);
+  background-size: cover;
 }
 .Bo {
   background: url(../src/assets/bo.jpg);
+  background-size: cover;
 }
 .Huck {
   background: url(../src/assets/huck.jpg);
+  background-size: cover;
 }
 .Huxley {
   background: url('../src/assets/orgeson.jpg');
+  background-size: cover;
 }
 
 .Bruiser {
   background-image: url('../src/assets/ahn.jpg');
+  background-size: cover;
 }
 .Rosie {
   background-image: url(../src/assets/ngell.jpg);
+  background-size: cover;
 }
 .Quincy {
   background-image: url(../src/assets/ong.jpg);
+  background-size: cover;
 }
 .Bruce {
   background-image: url(../src/assets/weetin.jpg);
+  background-size: cover;
 }
 .Sully {
   background-image: url(../src/assets/ancock.jpg);
+  background-size: cover;
 }
 .Smokey {
   background-image: url(../src/assets/ordon.jpg);
+  background-size: cover;
 }
 .Simba {
   background-image: url(../src/assets/ahman.jpg);
+  background-size: cover;
 }
 .Oynx {
   background-image: url(../src/assets/oynx.jpg);
+  background-size: cover;
 }
 .Mittens {
   background-image: url(../src/assets/mittens.jpg);
+  background-size: cover;
 }
 .Twoc {
   background-image: url(../src/assets/2c.jpg);
+  background-size: cover;
 }
 .Korra {
   background-image: url(../src/assets/kor.jpg);
+  background-size: cover;
 }
 .Koda {
   background-image: url(../src/assets/koda.jpg);
+  background-size: cover;
 }
 .Dill {
   background-image: url(../src/assets/dill.jpg);
+  background-size: cover;
 }
 .Moomoo {
   background-image: url(../src/assets/moo.jpg);
+  background-size: cover;
 }
 .defaultPet {
   background-image: url(../src/assets/pet.jpg);
+  background-size: cover;
 }
