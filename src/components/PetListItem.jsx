@@ -17,6 +17,28 @@ const PetListItem = ({
       {pet.Picture && (
         <div className={`rounded-lg card-img mb-5 ${pet['Pets name']}`} />
       )}
+      <div className="absolute opacity-0 w-[0.5rem]">
+        <div className="rounded-lg card-img mb-5 Lou" />
+        <div className="rounded-lg card-img mb-5 Alice" />
+        <div className="rounded-lg card-img mb-5 Kubota" />
+        <div className="rounded-lg card-img mb-5 Bo" />
+        <div className="rounded-lg card-img mb-5 Huck" />
+        <div className="rounded-lg card-img mb-5 Huxley" />
+        <div className="rounded-lg card-img mb-5 Bruiser" />
+        <div className="rounded-lg card-img mb-5 Rosie" />
+        <div className="rounded-lg card-img mb-5 Quincy" />
+        <div className="rounded-lg card-img mb-5 Bruce" />
+        <div className="rounded-lg card-img mb-5 Sully" />
+        <div className="rounded-lg card-img mb-5 Smokey" />
+        <div className="rounded-lg card-img mb-5 Simba" />
+        <div className="rounded-lg card-img mb-5 Oynx" />
+        <div className="rounded-lg card-img mb-5 Mittens" />
+        <div className="rounded-lg card-img mb-5 Twoc" />
+        <div className="rounded-lg card-img mb-5 Koda" />
+        <div className="rounded-lg card-img mb-5 Dill" />
+        <div className="rounded-lg card-img mb-5 Moomoo" />
+      </div>
+
       {!pet.Picture && <div className="rounded-lg card-img mb-5 defaultPet" />}
       <div className="px-5 pb-5">
         <h4 className="text-3xl font-bold">{pet['Pets name']}</h4>
