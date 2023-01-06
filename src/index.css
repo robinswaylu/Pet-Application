@@ -148,64 +148,65 @@
   }
 }
 .Lou {
-  background-image: url(../src/assets/lou.jpg);
+  background: url(../src/assets/lou.jpg);
 }
 .Alice {
-  background-image: url(../src/assets/IMG_E2545_David%20Costantino.JPG);
+  background: url(../src/assets/costantino.jpg);
 }
 .Kubota {
-  background-image: url(../src/assets/kubota_Kyle%20Hancock.jpg);
+  background: url(../src/assets/kubota.jpg);
 }
 .Bo {
-  background-image: url(../src/assets/Bo_Amelia%20Roberts.jpg);
+  background: url(../src/assets/bo.jpg);
 }
 .Huck {
-  background-image: url(../src/assets/huck_Kyle%20Hancock.jpg);
+  background: url(../src/assets/huck.jpg);
 }
 .Huxley {
-  background-image: url('../src/assets/Image%20from%20iOS%20(1)_Jade%20Borgeson.jpg');
+  background: url('../src/assets/orgeson.jpg');
 }
+
 .Bruiser {
-  background-image: url('../src/assets/Image%20from%20iOS%20(2)_Madelyn%20Rahn.jpg');
+  background-image: url('../src/assets/ahn.jpg');
 }
 .Rosie {
-  background-image: url(../src/assets/IMG_5598_Mintaka%20Angell.jpg);
+  background-image: url(../src/assets/ngell.jpg);
 }
 .Quincy {
-  background-image: url(../src/assets/IMG_0723_Joe%20Long.jpg);
+  background-image: url(../src/assets/ong.jpg);
 }
 .Bruce {
-  background-image: url(../src/assets/unnamed_Kaitlin%20Sweetin.jpg);
+  background-image: url(../src/assets/weetin.jpg);
 }
 .Sully {
-  background-image: url(../src/assets/sully_Kyle%20Hancock.jpg);
+  background-image: url(../src/assets/ancock.jpg);
 }
 .Smokey {
-  background-image: url(../src/assets/PXL_20220328_202557552_Micah%20Gordon.jpg);
+  background-image: url(../src/assets/ordon.jpg);
 }
 .Simba {
-  background-image: url(../src/assets/Simba_Ruben%20Rahman.jpg);
+  background-image: url(../src/assets/ahman.jpg);
 }
 .Oynx {
-  background-image: url(../src/assets/oynx_Kyle%20Hancock.jpg);
+  background-image: url(../src/assets/oynx.jpg);
 }
 .Mittens {
-  background-image: url(../src/assets/mittens_Amelia%20Roberts.jpg);
+  background-image: url(../src/assets/mittens.jpg);
 }
 .Twoc {
   background-image: url(../src/assets/2c.jpg);
 }
 .Korra {
-  background-image: url(../src/assets/Korra_Ruben%20Rahman.jpg);
+  background-image: url(../src/assets/kor.jpg);
 }
 .Koda {
-  background-image: url(../src/assets/IMG_9344_Emilie%20Rafal.jpg);
+  background-image: url(../src/assets/koda.jpg);
 }
 .Dill {
-  background-image: url(../src/assets/IMG_8990_Emilie%20Rafal.jpg);
+  background-image: url(../src/assets/dill.jpg);
 }
 .Moomoo {
-  background-image: url(../src/assets/IMG_7475_Malavika%20Kumaran.jpg);
+  background-image: url(../src/assets/moo.jpg);
 }
 .defaultPet {
   background-image: url(../src/assets/pet.jpg);
