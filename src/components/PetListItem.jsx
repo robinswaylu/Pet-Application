@@ -15,20 +15,9 @@ const PetListItem = ({
     >
       {/* if pet.picture is missing, use default placeholder picture  */}
       {pet.Picture && (
-        <div
-          className="rounded-lg card-img mb-5"
-          style={{ backgroundImage: `url('src/assets/${pet.Picture}')` }}
-        />
+        <div className={`rounded-lg card-img mb-5 ${pet['Pets name']}`} />
       )}
-      {!pet.Picture && (
-        <div
-          className="rounded-lg card-img mb-5"
-          style={{
-            backgroundImage: `url('src/assets/pet.jpg')`,
-          }}
-        />
-      )}
-
+      {!pet.Picture && <div className="rounded-lg card-img mb-5 defaultPet" />}
       <div className="px-5 pb-5">
         <h4 className="text-3xl font-bold">{pet['Pets name']}</h4>
         <h5 className="text-xl font-semibold">

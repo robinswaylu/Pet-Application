@@ -148,3 +148,66 @@
     opacity: 1;
   }
 }
+.Lou {
+  background-image: url(../src/assets/IMG_0719.jpg);
+}
+.Alice {
+  background-image: url(../src/assets/IMG_E2545_David%20Costantino.JPG);
+}
+.Kubota {
+  background-image: url(../src/assets/kubota_Kyle%20Hancock.jpg);
+}
+.Bo {
+  background-image: url(../src/assets/Bo_Amelia%20Roberts.jpg);
+}
+.Huck {
+  background-image: url(../src/assets/huck_Kyle%20Hancock.jpg);
+}
+.Huxley {
+  background-image: url('../src/assets/Image%20from%20iOS%20(1)_Jade%20Borgeson.jpg');
+}
+.Bruiser {
+  background-image: url('../src/assets/Image%20from%20iOS%20(2)_Madelyn%20Rahn.jpg');
+}
+.Rosie {
+  background-image: url(../src/assets/IMG_5598_Mintaka%20Angell.jpg);
+}
+.Quincy {
+  background-image: url(../src/assets/IMG_0723_Joe%20Long.jpg);
+}
+.Bruce {
+  background-image: url(../src/assets/unnamed_Kaitlin%20Sweetin.jpg);
+}
+.Sully {
+  background-image: url(../src/assets/sully_Kyle%20Hancock.jpg);
+}
+.Smokey {
+  background-image: url(../src/assets/PXL_20220328_202557552_Micah%20Gordon.jpg);
+}
+.Simba {
+  background-image: url(../src/assets/Simba_Ruben%20Rahman.jpg);
+}
+.Oynx {
+  background-image: url(../src/assets/oynx_Kyle%20Hancock.jpg);
+}
+.Mittens {
+  background-image: url(../src/assets/mittens_Amelia%20Roberts.jpg);
+}
+.Twoc {
+  background-image: url(../src/assets/2c_Kyle%20Hancock.jpg);
+}
+.Korra {
+  background-image: url(../src/assets/Korra_Ruben%20Rahman.jpg);
+}
+.Koda {
+  background-image: url(../src/assets/IMG_9344_Emilie%20Rafal.jpg);
+}
+.Dill {
+  background-image: url(../src/assets/IMG_8990_Emilie%20Rafal.jpg);
+}
+.Moomoo {
+  background-image: url(../src/assets/IMG_7475_Malavika%20Kumaran.jpg);
+}
+.defaultPet {
+  background-image: url(../src/assets/pet.jpg);
+}
