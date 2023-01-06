@@ -18,8 +18,8 @@ const PetListItem = ({
         className="rounded-lg card-img mb-5"
         style={{
           backgroundImage: pet.Picture
-            ? `url('/src/assets/${pet.Picture}')`
-            : `url('/src/assets/pet.jpg')`,
+            ? `url('/assets/${pet.Picture}')`
+            : `url('/assets/pet.jpg')`,
         }}
       />
 
